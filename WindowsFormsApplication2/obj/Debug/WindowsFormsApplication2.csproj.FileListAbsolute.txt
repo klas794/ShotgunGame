@@ -1,0 +1,9 @@
+C:\Users\klash\OneDrive\Documents\Visual Studio 2015\Projects\Nackademin\Inlämning\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\klash\OneDrive\Documents\Visual Studio 2015\Projects\Nackademin\Inlämning\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\klash\OneDrive\Documents\Visual Studio 2015\Projects\Nackademin\Inlämning\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\klash\OneDrive\Documents\Visual Studio 2015\Projects\Nackademin\Inlämning\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\klash\OneDrive\Documents\Visual Studio 2015\Projects\Nackademin\Inlämning\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\klash\OneDrive\Documents\Visual Studio 2015\Projects\Nackademin\Inlämning\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\klash\OneDrive\Documents\Visual Studio 2015\Projects\Nackademin\Inlämning\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\klash\OneDrive\Documents\Visual Studio 2015\Projects\Nackademin\Inlämning\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\klash\OneDrive\Documents\Visual Studio 2015\Projects\Nackademin\Inlämning\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
